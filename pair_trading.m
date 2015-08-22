@@ -37,14 +37,6 @@ size(x)
 size(y)
 R = corrcoef(x,y);
 
-n = 100;
-n1 = (10-1)/n;
-n2 = (20-1)/n;
-x = 1:n1:10;
-y = 1:n2:20;
-size(x)
-size(y)
-R = corrcoef(x,y)
 %{
     kozel raspizdyaty
 %}
