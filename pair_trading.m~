@@ -37,3 +37,6 @@ size(x)
 size(y)
 R = corrcoef(x,y);
 
+%{
+    kozel raspizdyaty
+%}
